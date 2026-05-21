@@ -127,7 +127,7 @@ export const portfolioData = {
         {
             title: "Digital Wedding Card Builder",
             tech: ["Next.js"],
-            link: "https://digital-wedding-card-tau.vercel.app",
+            link: "https://onespecialday.my",
             description: "Dynamic invitation builder system with customizable layouts.",
             image: "/projects/card-builder-digital.png"
         },
