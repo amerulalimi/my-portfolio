@@ -71,7 +71,7 @@ export const portfolioData = {
                 "PostgreSQL relational schema design",
                 "Redis caching & background jobs",
                 "BullMQ queue processing",
-                "REST API development with NestJS"
+                "REST API development with NestJS and FastAPI"
             ]
         },
         {
@@ -86,7 +86,7 @@ export const portfolioData = {
     ],
     techStack: [
         "Next.js", "TypeScript", "React", "Prisma", "PostgreSQL",
-        "Supabase", "Redis", "BullMQ", "NestJS", "Docker", "AWS", "Tailwind CSS"
+        "Supabase", "Redis", "BullMQ", "NestJS", "Docker", "AWS", "Tailwind CSS","Python","FastAPI","WordPress"
     ],
     projects: [
         {
