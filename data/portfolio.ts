@@ -91,7 +91,7 @@ export const portfolioData = {
     projects: [
         {
             title: "Byton Byte Management Website",
-            tech: ["Next.js"],
+            tech: ["Next.js", "PostgreSQL"],
             link: "https://bbmwebsite-2-0-next.vercel.app",
             description: "Corporate website built with modern routing structure and optimized frontend architecture.",
             image: "/projects/bbm-website-2.0.png"
@@ -126,21 +126,21 @@ export const portfolioData = {
         },
         {
             title: "Digital Wedding Card Builder",
-            tech: ["Next.js"],
+            tech: ["Next.js","FastAPI"],
             link: "https://onespecialday.my",
             description: "Dynamic invitation builder system with customizable layouts.",
             image: "/projects/card-builder-digital.png"
         },
         {
             title: "ABHGMS Company Website",
-            tech: ["Next.js", "Tailwind CSS"],
+            tech: ["WordPress"],
             link: "https://abhgms.com/",
             description: "Custom corporate website developed for ABHGMS, focusing on a modern and professional online presence.",
             image: "/projects/abhgms.png"
         },
         {
             title: "Kies Kapit Crunchy",
-            tech: ["Next.js", "Tailwind CSS"],
+            tech: ["WordPress"],
             link: "https://kieskapitcrunchy.com/",
             description: "Custom website built for Kies Kapit Crunchy, showcasing their products and brand identity.",
             image: "/projects/kieskapit.png"
